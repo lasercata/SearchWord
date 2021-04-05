@@ -25,8 +25,8 @@ optional arguments:
   -v, --version         Show SearchWord version and exit
   -p PATH, --path PATH  Path where to search. If not provided, search in current (".").
   -e EXTENSION, --extension EXTENSION
-                        Format of the filenames extensions. Read only in the files with one of these extensions. ","
-                        (comma, without spaces) between them.
+                        Format of the filenames extensions. Read only in the files with one of these
+                        extensions. "," (comma, without spaces) between them.
   -x EXCLUDE, --exclude EXCLUDE
                         Patterns to exclude. "," (comma, without spaces) between them.
   -sn, --show_line_nb   Show line numbers where WORD was found in each file.
