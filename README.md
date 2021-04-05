@@ -1,5 +1,5 @@
 # SearchWord
-Search for a word in multiple files
+Search for a word in multiple files.
 
 ## Installing
 Download the script `SearchWord.py` ;
