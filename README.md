@@ -1,5 +1,5 @@
 # SearchWord
-Search for a word in multiple files.
+Search for a word in multiple files with a command line interface (python3 argparse).
 
 ## Installing
 Download the script `SearchWord.py` ;
