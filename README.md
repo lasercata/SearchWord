@@ -10,6 +10,11 @@ Make it executable :
 $ chmod +x SearchWord.py
 ```
 
+If your are on Linux, you can copy that script to the `/bin` folder to be able to run it from anywhere :
+```bash
+$ sudo cp SearchWord.py /bin/SearchWord
+```
+
 ## Usage
 ```
 $./SearchWord.py -h
